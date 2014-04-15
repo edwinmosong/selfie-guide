@@ -1,7 +1,16 @@
-# My portfolio
+# Coding Standard
 
-My name is Edwin Mo
+For this project, we will stick to the following coding standards:
 
-![alt text](http://i.imgur.com/2i35DTo.jpg)
+```
+/*
+ * Method signature:			[method signature]
+ * Purpose of method: 			[method purpose]
+ * Description of method:		[method description]
+ * Original Author:			[name and/or e-mail]
+ * Authors w ho modified code:		[list of authors]
+ */
+
+```
 
 
