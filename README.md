@@ -21,11 +21,11 @@ public void foo(View view, ...){
 	...
 }
 ```
-<p>
-Some reminders:<br/>
-	
-CamelCase standard:<br/><i>
-* x write_to_converter_view<br/>
-* o writeToConverterView<br/>
-* o WriteToConverterView<br/></i>
-</p>
+
+CamelCase standard:
+
+> x *write_to_converter_view
+
+> o writeToConverterView
+
+> o WriteToConverterView*
