@@ -1,4 +1,4 @@
-# Coding Standard
+# Coding Standards
 
 For this project, we will stick to the following coding standards:
 
@@ -21,10 +21,11 @@ public void foo(View view, ...){
 	...
 }
 ```
-
-Some reminders:
+<p>
+Some reminders:<br/>
 	
-CamelCase standard:
-	x write_to_converter_view
-	o writeToConverterView
-	o WriteToConverterView
+CamelCase standard:<br/><i>
+	x write_to_converter_view<br/>
+	o writeToConverterView<br/>
+	o WriteToConverterView<br/></i>
+</p>
