@@ -24,8 +24,8 @@ public void foo(View view, ...){
 
 CamelCase standard:
 
-> x *write_to_converter_view
+> write_to_converter_view.....NO
 
-> o writeToConverterView
+> writeToConverterView........YES
 
-> o WriteToConverterView*
+> WriteToConverterView........YES
