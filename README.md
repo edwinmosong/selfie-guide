@@ -25,7 +25,7 @@ public void foo(View view, ...){
 Some reminders:<br/>
 	
 CamelCase standard:<br/><i>
-&#09;x write_to_converter_view<br/>
-&#09;o writeToConverterView<br/>
-&#09;o WriteToConverterView<br/></i>
+* x write_to_converter_view<br/>
+* o writeToConverterView<br/>
+* o WriteToConverterView<br/></i>
 </p>
