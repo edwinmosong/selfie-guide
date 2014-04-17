@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 ## Index
 1. [Setting up the environment](#setup) <br/>
    * [Ubuntu set-up](#ubuntusetup) <br/>
@@ -15,6 +17,7 @@ Hey guys, since last meeting showed that most of us aren't ready to develop in a
 ######NOTE: Tomorrow (April 17, 2014) the newest Ubuntu LTS version, 14.04, will be available to everyone. I suggest that if you plan on moving to the newer Ubuntu, to wait till after updating to do these steps.
 
 <a name="ubuntusetup"></a>
+[Go Top](#top)
 ## Ubuntu 13.10
 
 #####Install Android Studio:
@@ -56,6 +59,7 @@ sudo apt-get install netflix-desktop
 ```
 
 <a name="windowssetup"></a>
+[Go Top](#top)
 ## Windows
 
 So for those of you who are running Windows...
