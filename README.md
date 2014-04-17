@@ -1,9 +1,20 @@
+## Index
+* [Setting up the environment](#setup)
+..-[Ubuntu set-up](#ubuntusetup)
+..-[Windows set-up](#windowssetup)
+
+---
+
+
+<a name="setup"></a>
+
 #Guide to setting up environment for Android Development (for our purposes)
 
 Hey guys, since last meeting showed that most of us aren't ready to develop in android, I thought I'd set up a quick tutorial on getting the ESSENTIALS going so that everyone can start coding. This tutorial will be broken up in two parts: Windows and Ubuntu 13.10
 
 ######NOTE: Tomorrow (April 17, 2014) the newest Ubuntu LTS version, 14.04, will be available to everyone. I suggest that if you plan on moving to the newer Ubuntu, to wait till after updating to do these steps.
 
+<a name="ubuntusetup"></a>
 ## Ubuntu 13.10
 
 #####Install Android Studio:
@@ -44,6 +55,7 @@ sudo apt-get update
 sudo apt-get install netflix-desktop
 ```
 
+<a name="windowssetup"></a>
 ## Windows
 
 So for those of you who are running Windows...
