@@ -22,6 +22,7 @@ As you can see, I have included an example output of how it would look if you do
 
 If you don't have Java, do the following in your terminal:
 ```
+$ sudo apt-get update
 $ sudo apt-get install openjdk-7-jdk
 ```
 And press "y" if you are prompted. Let it do its thing.
@@ -29,11 +30,19 @@ And press "y" if you are prompted. Let it do its thing.
 #####Install Git
 In your terminal:
 ```
+$ sudo apt-get update
 $ sudo apt-get install git
 ```
 
 At this point, you should be able to run Android Studio (if it doesn't, google your error or Facebook me) and can get started on Git cloning/pulling/etc. 
 
+######Bonus: Netflix
+######Run these commands in the terminal:
+```
+sudo apt-add-repository ppa:ehoover/compholio
+sudo apt-get update
+sudo apt-get install netflix-desktop
+```
 
 ## Windows
 
