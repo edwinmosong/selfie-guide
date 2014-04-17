@@ -1,7 +1,7 @@
 ## Index
-* [Setting up the environment](#setup) <br/>
-   -[Ubuntu set-up](#ubuntusetup) <br/>
-   -[Windows set-up](#windowssetup) <br/>
+1. [Setting up the environment](#setup) <br/>
+   * [Ubuntu set-up](#ubuntusetup) <br/>
+   * [Windows set-up](#windowssetup) <br/>
 
 ---
 
