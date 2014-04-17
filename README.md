@@ -34,12 +34,23 @@ OpenJDK 64-Bit Server VM (build 24.45-b08, mixed mode)
 
 As you can see, I have included an example output of how it would look if you do have Java.
 
-If you don't have Java, do the following in your terminal:
+If you don't have Java, do the following in your terminal.
+######Option 1: Open-JDK (open-source)
 ```
 $ sudo apt-get update
 $ sudo apt-get install openjdk-7-jdk
 ```
 And press "y" if you are prompted. Let it do its thing.
+
+######Option 2: Oracle's JDK (propietary)
+```
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java7-installer
+```
+Source: http://www.webupd8.org/2012/01/install-oracle-java-jdk-7-in-ubuntu-via.html (thanks Dilraj!)
+
+NOTE: I do not use Oracle's JDK and, from the source website, I see that it shows Java Runtime Environment (JRE). I don't know if this includes JDK (Java Development Kit), which is needed to develop Java. If this doesn't work, either Google your problem or just use Open-JDK (above).
 
 #####Install Git
 In your terminal:
