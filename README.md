@@ -1,5 +1,9 @@
 <a name="top"></a>
 
+
+[Test click](index2.html)
+
+
 ## Index
 0. Application Features
 1. [Setting up the environment](#setup) <br/>
