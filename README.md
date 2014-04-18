@@ -1,9 +1,11 @@
 <a name="top"></a>
 
 ## Index
+0. Application Features
 1. [Setting up the environment](#setup) <br/>
    * [Ubuntu set-up](#ubuntusetup) <br/>
    * [Windows set-up](#windowssetup) <br/>
+   * [MUST-DO](#mustdo) <br/>
 
 ---
 
@@ -88,9 +90,24 @@ Click on "Advanced System Settings" and then click on Environment Variables (at 
 
 Now, you will have to do these steps for both Git and the JDK. 
 
-Go to the folder where you installed Git (C:\Program Files(x86)\Git is default I THINK) and copy this url. Go back to the window where you can edit the PATH variable. Add a semicolon at the end of its value (if not already there) and paste the path for Git.
+Go to the folder where you installed Git (C:\Program Files(x86)\Git\bin is default I THINK) and copy this url. Go back to the window where you can edit the PATH variable. Add a semicolon at the end of its value (if not already there) and paste the path for Git.
 
 Do the same for JDK (might be more difficult, you will have to find the installation folder for JDK and go to /bin/ folder. This is the entire path you will want to put in the PATH variable.
 
 Once you're done with this, open your command prompt (Windows-key+R, type cmd and ENTER) and test. Write "git" and hit ENTER. Write "javac" and hit ENTER. If either doesn't work, retrace your steps and see if you can find out your mistake.
 
+
+<a name="mustdo"></a>
+[>>> Go Top](#top)
+##Must do:
+
+To check that everyone has their environment set up correctly, I will ask that everyone (except the UX people, who are busy getting Use Cases and User Stories done by Friday) to do the following:
+
+1. Clone a repository from my github account: [My Github](https://github.com/edwinmosong) 
+   * The repository name is TestingApp.
+2. Find a file called "modifyme.txt" and add a line with your name.
+   * Note that the file is kinda hidden! A hint I can give you is that it is in the same folder that MainActivity.java is in. If you are using Android Studio (which you should) then this shouldn't be a problem.
+3. I want you to PUSH this change to the repository. Make sure that you put your name!
+
+
+### Make sure that your push is reflected in the repository by going to https://github.com/edwinmosong/TestingApp in the file modifyme.txt. I ask that EVERYONE (again, EXCEPT UX people) put their names in this file by SATURDAY 19 APRIL 2014, 8:00pm. This is so that we know that people can work on Sunday's meeting. If you have any questions, you can ask Jose, Dilraj, or me (Edwin). Good luck!
