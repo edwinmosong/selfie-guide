@@ -10,7 +10,7 @@ screenshots to guide you.
 
 ## Step 1: Open Android Studio and click on "Check out from Version Control"
 
-[!alt
+![alt
 text](https://github.com/edwinmosong/edwinmosong.github.io/tree/master/images/first.png)
 
 ## Step 2: Write the team repository's URL (shown in screenshot)
@@ -18,28 +18,28 @@ Also, assign a name for the directory. You want this directory to have a
 name that reflects your team or the branch you will work on! In my example, I
 use "ux-selfie" for the ux branch.
 
-[!alt
+![alt
 text](https://github.com/edwinmosong/edwinmosong.github.io/tree/master/images/second.png)
 
 ## Step 3: Basically click Yes and Continue in everything that comes.
 That's it, really...
 
-[!alt
+![alt
 text](https://github.com/edwinmosong/edwinmosong.github.io/tree/master/images/third.png)
 
 ## Step 4: Now, follow this screenshot and click on Branches.
 
-[!alt
+![alt
 text](https://github.com/edwinmosong/edwinmosong.github.io/tree/master/images/fourth.jpg)
 
 ## Step 5: You should now see the following:
 
-[!alt
+![alt
 text](https://github.com/edwinmosong/edwinmosong.github.io/tree/master/images/fifth.png)
 
 ## Step 6: Click on your branch and click "Checkout as new local branch"
 
-[!alt
+![alt
 text](https://github.com/edwinmosong/edwinmosong.github.io/tree/master/images/sixth.png)
 
 ## Step 7: You are done setting up your local branch! 
@@ -47,15 +47,15 @@ Now, let's test by going to VCS->Git->Pull. If your branch is automatically
 selected, everything should be fine and you are ready to push and pull to
 and from the remote repository (@ your branch!)
 
-[!alt
+![alt
 text](https://github.com/edwinmosong/edwinmosong.github.io/tree/master/images/seventh.png)
 
-[!alt
+![alt
 text](https://github.com/edwinmosong/edwinmosong.github.io/tree/master/images/eight.png)
 
 ## Step 8: Lastly, this is how your Android Studio would look
 If you added multiple branches! The steps are the same for all branches. I
 will remind you that you shouldn't touch the 'release' branch! 
 
-[!alt
+![alt
 text](https://github.com/edwinmosong/edwinmosong.github.io/tree/master/images/last.png)
