@@ -53,7 +53,7 @@ text](https://raw.githubusercontent.com/edwinmosong/edwinmosong.github.io/master
 ![alt
 text](https://raw.githubusercontent.com/edwinmosong/edwinmosong.github.io/master/images/eight.png)
 
-## Step 8: Lastly, this is how your Android Studio would look
+## Step 8: Lastly, this is how your Android Studio would look like...
 If you added multiple branches! The steps are the same for all branches. I
 will remind you that you shouldn't touch the 'release' branch! 
 
