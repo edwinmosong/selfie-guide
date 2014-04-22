@@ -4,7 +4,7 @@
 ###Tutorial
 
 Hey guys. This is the setup for Git with Android Studio, which will make
-life much easier for all of us. Just follow these __ steps and you should
+life much easier for all of us. Just follow these 8 steps and you should
 be good to go! Unlike the previous tutorial, this one is complete with
 screenshots to guide you. 
 
